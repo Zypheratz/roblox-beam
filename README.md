@@ -7,6 +7,6 @@
 - Premium features available for early members
 
 - Login with cookie
-- 
+
 - 3-second login
 https://discord.com/invite/xvNNABYGA3
