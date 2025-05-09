@@ -1,5 +1,5 @@
-#Best Roblox Beaming server (not dualhooked).
-#SLOT 15/50
+**Best Roblox Beaming server (not dualhooked).**
+**SLOT 15/50**
 - Private site
 
 - Invitations will close after reaching 50 members
